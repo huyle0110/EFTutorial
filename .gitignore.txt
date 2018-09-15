@@ -1,0 +1,14 @@
+# Ignore file with extension
+
+
+# Ignore file with path
+.vs
+.exe
+ConsoleApplication/bin
+ConsoleApplication/obj
+
+NinjaDomain.Classes/bin
+NinjaDomain.Classes/obj
+
+NinjaDomain.Model/bin
+NinjaDomain.Model/obj

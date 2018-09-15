@@ -1,0 +1,15 @@
+c:\users\luke.huy\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.dll.config
+c:\users\luke.huy\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.dll
+c:\users\luke.huy\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.pdb
+c:\users\luke.huy\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.dll
+c:\users\luke.huy\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\luke.huy\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.Classes.dll
+c:\users\luke.huy\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.Classes.pdb
+c:\users\luke.huy\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.xml
+c:\users\luke.huy\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\luke.huy\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csprojResolveAssemblyReference.cache
+c:\users\luke.huy\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.dll
+c:\users\luke.huy\documents\visual studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.pdb
+c:\Users\luke.huy\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.Initial.resources
+c:\Users\luke.huy\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csproj.GenerateResource.Cache
+c:\Users\luke.huy\Documents\Visual Studio 2015\Projects\Ninja.Module2Demo\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.AddBirthdayToNinja.resources
